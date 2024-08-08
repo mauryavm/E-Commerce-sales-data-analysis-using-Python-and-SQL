@@ -2,10 +2,13 @@
 
 Welcome to my Ecommerce Sales Data Analysis project, where I've leveraged Python and MySQL to explore and analyze sales data from an ecommerce platform. 
 This project is a comprehensive dive into data-driven insights, covering everything from basic data retrieval to advanced analytics.
+
 📝 Overview
+
 In this project, I've conducted a series of SQL queries categorized into three levels of complexity: Basic, Intermediate, and Advanced. 
 Each level progressively builds on the previous one, enabling deeper insights into the dataset.
 Here's a glimpse of what I worked on:
+
 🔍 Basic Queries
 	1. Unique Customer Locations: Listed all unique cities where customers are located.
 	2. Order Count: Counted the number of orders placed in 2017.
