@@ -15,12 +15,17 @@ In this project, I've conducted a series of SQL queries categorized into three l
 🚀 Technologies Used
 
 • Python: For data manipulation and analysis.
+
 • MySQL: For executing queries and managing the database.
+
 🗂️ Project Structure
 
 • Scripts: Contains the Python scripts used for executing the MySQL queries and performing additional analysis.
+
 • Data: I have used E-Commerce sales dataset for this project which i have downloaded from kaggle.com.
+
 • Results: Contains the output of queries and visualizations created.
+
 📈 Insights
 
 This project allowed me to extract valuable insights from the dataset, such as identifying high-value customers, analyzing sales trends, and understanding the impact of pricing on product demand. The advanced queries, in particular, provided deep insights into customer behavior and sales performance over time.
